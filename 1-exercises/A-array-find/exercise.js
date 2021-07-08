@@ -17,6 +17,7 @@ var names = [
   "Ahmed",
 ];
 
+
 var longNameThatStartsWithA = findLongNameThatStartsWithA(names);
 
 console.log(longNameThatStartsWithA);
